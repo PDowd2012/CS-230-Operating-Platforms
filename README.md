@@ -2,6 +2,9 @@
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 Draw It or Lose It is loosely similar to the 1980s television game Win, Lose or Draw, where teams compete to guess what is being drawn. Rather than a player drawing images on an easel to help team members guess the puzzle (a phrase, title, or thing), the application will render images from a large library of stock drawings as clues. The client wanted us to develop a game that can be delivered across multiple OS to maximize the distribution of their product. 
 
+What did you do particularly well in developing this documentation?
+I think I demonstrated the ability to translate non-technical client requirements into technical development strategies. 
+
 What about the process of working through a design document did you find helpful when developing the code?
 I found the design document a valuable tool to define the client requirements, to then determine the design constraints, and ultimately to provide the client feedback on how to best accomplish their request.
 
